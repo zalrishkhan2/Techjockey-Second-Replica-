@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+.btn {
+  border: 2px solid #f75d34;
+  background: #f75d34;
+  border-radius: 5px;
+  padding: 10px;
+  color: #fff;
+}
+.btnsec {
+  border: 1px solid #ffaa00;
+  background: #fdf9ef !important;
+  border-radius: 5px;
+  padding: 10px;
+}
+nav {
+  display: flex;
+  /* width: 100%; */
+  margin: 10px;
+}
+nav img {
+  margin-left: 50px;
+}
+.links {
+  display: flex;
+  list-style: none;
+  margin-left: 20%;
+}
+.links li {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.links button {
+  margin-left: 20px;
+}
+.put {
+  width: 150%;
+  padding: 10px;
+  margin-left: 30px;
+  padding-right: 100px;
+  border-radius: 20px;
+  border: 2px solid #f75d34;
+}
+.image img {
+  width: 30%;
+  height: 30%;
+  margin-left: 70px;
+  margin-right: 70px;
+  margin-top: 70px;
+}
+.image {
+  display: flex;
+  margin-bottom: 10px;
+}
+.text {
+  margin-top: 90px;
+}
+.text p {
+  font: 13px sans-serif;
+}
+.text button {
+  background: green;
+  margin-top: 20px;
+  border: 2px solid green;
+  padding: 2px;
+  color: #f5f5f5;
+  width: 35px;
+  border-radius: 2px;
+}
+hr {
+  margin-top: 10px;
+}
+.text-two {
+  display: flex;
+}
+.text-two p {
+  margin-top: 22px;
+  margin-left: 10px;
+}
+.pa {
+  color: dodgerblue;
+}
+.btnthird {
+  color: dodgerblue;
+  padding: 100px;
+  width: 100px;
+}
+.btnn {
+  margin-left: 20px;
+}
+.text-tree p {
+  margin-top: 20px;
+}
+.small-pics {
+  display: flex;
+  flex-basis: 24%;
+}
+.box-one {
+  margin-left: 40%;
+}
